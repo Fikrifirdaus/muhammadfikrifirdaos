@@ -1,0 +1,28 @@
+/* ekternal css */
+* {
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Quicksand', sans-serif;
+}
+body {
+    background-color: rgb(34, 106, 107);
+}
+img {
+    padding-left: 465px;
+    position: relative;
+}
+div.HALLO {
+    text-align: center;
+    padding-left: 150px;
+
+}
+div {
+    max-width: 75%;
+    max-height: 75%;
+
+    font-size: 20px;
+}
+
+div.foto{
+    padding-left: 500px;
+}
